@@ -1,5 +1,4 @@
 import time
-import schedule
 from typing import Optional
 import shrimpy
 from fastapi import FastAPI
